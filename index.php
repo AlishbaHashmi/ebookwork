@@ -2,7 +2,7 @@
   <!--================ Start Header Menu Area =================-->
   <?php
   include('header.php');
-  print_r($_SESSION);
+  // print_r($_SESSION);
 
   ?>
   <!--================ End Header Menu Area =================-->
@@ -48,7 +48,7 @@
       <div class="row">
         <div class="col-lg-4 col-md-6">
           <div class="single_feature">
-            <div  class="icon"><i  class="fa-solid fa-file-pdf"></i></div>
+            <div  class="icon"><i class="fa-sharp fa-solid fa-file-pdf fa-2xl"></i></div>
             <div class="desc">
               <h4 class="mt-3 mb-2">PDF Files</h4>
               <p>
@@ -60,7 +60,7 @@
 
         <div class="col-lg-4 col-md-6">
           <div class="single_feature">
-            <div class="icon"><span class="flaticon-book"></span></div>
+            <div class="icon"><i class="fa-sharp fa-solid fa-book fa-2xl"></i></div>
             <div class="desc">
               <h4 class="mt-3 mb-2">Hard copy</h4>
               <p>
@@ -72,7 +72,7 @@
 
         <div class="col-lg-4 col-md-6">
           <div class="single_feature">
-            <div class="icon"><i class="bi bi-disc"></i></div>
+            <div class="icon"><i class="fa-sharp fa-solid fa-compact-disc fa-2xl"></i></div>
             <div class="desc">
               <h4 class="mt-3 mb-2">CDs</h4>
               <p>

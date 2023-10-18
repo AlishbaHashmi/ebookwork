@@ -4,47 +4,47 @@
         <div class="col-lg-2 col-md-6 single-footer-widget">
           <h4>Top Products</h4>
           <ul>
-            <li><a href="#">Managed Website</a></li>
-            <li><a href="#">Manage Reputation</a></li>
-            <li><a href="#">Power Tools</a></li>
-            <li><a href="#">Marketing Service</a></li>
+            <li><a style='color:#ecb944;;' href="novel.php">Novels</a></li>
+            <li><a style='color:#ecb944;' href="#">Story Books</a></li>
+            <li><a style='color:#ecb944;' href="#">General Knowledge</a></li>
+            <li><a style='color:#ecb944;' href="#">Quiz Books</a></li>
           </ul>
         </div>
         <div class="col-lg-2 col-md-6 single-footer-widget">
           <h4>Quick Links</h4>
           <ul>
-            <li><a href="#">Jobs</a></li>
-            <li><a href="#">Brand Assets</a></li>
-            <li><a href="#">Investor Relations</a></li>
-            <li><a href="#">Terms of Service</a></li>
+            <li><a style='color:#ecb944;' href="contact">Contact Us</a></li>
+            <li><a style='color:#ecb944;' href="about-us.php">About Us</a></li>
+            <li><a style='color:#ecb944;' href="faq.php">FAQ</a></li>
+            <li><a style='color:#ecb944;' href="privacypolicy">Privacy Policy</a></li>
           </ul>
         </div>
         <div class="col-lg-2 col-md-6 single-footer-widget">
           <h4>Features</h4>
           <ul>
-            <li><a href="#">Jobs</a></li>
-            <li><a href="#">Brand Assets</a></li>
-            <li><a href="#">Investor Relations</a></li>
-            <li><a href="#">Terms of Service</a></li>
+            <li><a style='color:#ecb944;' href="#">PDF</a></li>
+            <li><a style='color:#ecb944;' href="#">CD</a></li>
+            <li><a style='color:#ecb944;' href="#">Hard Copy</a></li>
+            <li><a style='color:#ecb944;' href="#">Terms of Service</a></li>
           </ul>
         </div>
         <div class="col-lg-2 col-md-6 single-footer-widget">
           <h4>Resources</h4>
           <ul>
-            <li><a href="#">Guides</a></li>
-            <li><a href="#">Research</a></li>
-            <li><a href="#">Experts</a></li>
-            <li><a href="#">Agencies</a></li>
+            <li><a style='color:#ecb944;' href="#">Guides</a></li>
+            <li><a style='color:#ecb944;' href="#">Research</a></li>
+            <li><a style='color:#ecb944;' href="#">Experts</a></li>
+            <li><a style='color:#ecb944;' href="#">Agencies</a></li>
           </ul>
         </div>
         <div class="col-lg-4 col-md-6 single-footer-widget">
-          <h4>Newsletter</h4>
-          <p>You can trust us. we only send promo offers,</p>
+          <h4>Membership</h4>
+          <p class="text-white" >You can trust us. Take this opportunity</p>
           <div class="form-wrap" id="mc_embed_signup">
             <form target="_blank"
               action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
               method="get" class="form-inline">
-              <input class="form-control" name="EMAIL" placeholder="Your Email Address" onfocus="this.placeholder = ''"
+              <input class="form-control text-white" name="EMAIL" placeholder="Your Email Address" onfocus="this.placeholder = ''"
                 onblur="this.placeholder = 'Your Email Address'" required="" type="email" />
               <button class="click-btn btn btn-default">
                 <span>subscribe</span>
