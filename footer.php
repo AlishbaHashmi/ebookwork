@@ -1,10 +1,14 @@
 <footer class="footer-area section_gap">
     <div class="container">
       <div class="row">
+      <div class="col-lg-2 col-md-6 single-footer-widget">
+          <img style='height:120px; width:195px;' src="./img/book_logo.png" alt="">
+        </div>
+
         <div class="col-lg-2 col-md-6 single-footer-widget">
           <h4>Top Products</h4>
           <ul>
-            <li><a style='color:#ecb944;;' href="novel.php">Novels</a></li>
+            <li><a style='color:#ecb944;' href="novel.php">Novels</a></li>
             <li><a style='color:#ecb944;' href="#">Story Books</a></li>
             <li><a style='color:#ecb944;' href="#">General Knowledge</a></li>
             <li><a style='color:#ecb944;' href="#">Quiz Books</a></li>
@@ -16,7 +20,7 @@
             <li><a style='color:#ecb944;' href="contact">Contact Us</a></li>
             <li><a style='color:#ecb944;' href="about-us.php">About Us</a></li>
             <li><a style='color:#ecb944;' href="faq.php">FAQ</a></li>
-            <li><a style='color:#ecb944;' href="privacypolicy">Privacy Policy</a></li>
+            <li><a style='color:#ecb944;' href="privacypolicy.php">Privacy Policy</a></li>
           </ul>
         </div>
         <div class="col-lg-2 col-md-6 single-footer-widget">
@@ -29,34 +33,24 @@
           </ul>
         </div>
         <div class="col-lg-2 col-md-6 single-footer-widget">
-          <h4>Resources</h4>
+          <h4>Contact Us</h4>
           <ul>
-            <li><a style='color:#ecb944;' href="#">Guides</a></li>
-            <li><a style='color:#ecb944;' href="#">Research</a></li>
-            <li><a style='color:#ecb944;' href="#">Experts</a></li>
-            <li><a style='color:#ecb944;' href="#">Agencies</a></li>
+            <li><a style='color:#ecb944;' href="./contact.php">DHA phase 11</a></li>
+            <li><a style='color:#ecb944;' href="./contact.php">00 (440) 9865 562</a></li>
+            <li><a style='color:#ecb944;' href="./index.php">onlinebookstore@gmail.com</a></li>
+           
           </ul>
         </div>
-        <div class="col-lg-4 col-md-6 single-footer-widget">
-          <h4>Membership</h4>
-          <p class="text-white" >You can trust us. Take this opportunity</p>
-          <div class="form-wrap" id="mc_embed_signup">
-            <form target="_blank"
-              action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
-              method="get" class="form-inline">
-              <input class="form-control text-white" name="EMAIL" placeholder="Your Email Address" onfocus="this.placeholder = ''"
-                onblur="this.placeholder = 'Your Email Address'" required="" type="email" />
-              <button class="click-btn btn btn-default">
-                <span>subscribe</span>
-              </button>
-              <div style="position: absolute; left: -5000px;">
-                <input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text" />
-              </div>
-
-              <div class="info"></div>
-            </form>
-          </div>
+        <div class="col-lg-2 col-md-6 single-footer-widget">
+          <h4>Follow Us</h4>
+          <ul>
+           <li><a style='color:#ecb944;;' href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i>  Facebook</a></li>
+           <li><a style='color:#ecb944;;' href="https://www.twitter.com/"><i class="fab fa-twitter"></i>  Twitter</a></li>
+           <li><a style='color:#ecb944;;' href="https://www.instagram.com/"><i class="fab fa-instagram"></i>  Instagram</a></li>
+           
+          </ul>
         </div>
+      
       </div>
       <div class="row footer-bottom d-flex justify-content-between">
         <p class="col-lg-8 col-sm-12 footer-text m-0 text-white">
