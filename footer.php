@@ -26,10 +26,10 @@
         <div class="col-lg-2 col-md-6 single-footer-widget">
           <h4>Features</h4>
           <ul>
-            <li><a style='color:#ecb944;' href="#">PDF</a></li>
-            <li><a style='color:#ecb944;' href="#">CD</a></li>
-            <li><a style='color:#ecb944;' href="#">Hard Copy</a></li>
-            <li><a style='color:#ecb944;' href="#">Terms of Service</a></li>
+            <li><a style='color:#ecb944;' href="pdf.php">PDF</a></li>
+            <li><a style='color:#ecb944;' href="cd.php">CD</a></li>
+            <li><a style='color:#ecb944;' href="hardcopy.php">Hard Copy</a></li>
+            <li><a style='color:#ecb944;' href="termsofservice.php">Terms of Service</a></li>
           </ul>
         </div>
         <div class="col-lg-2 col-md-6 single-footer-widget">

@@ -13,29 +13,23 @@
         <div class="row h_blog_item">
           <div class="col-lg-6">
             <div class="h_blog_img">
-              <img class="img-fluid" src="img/privacypolicy.jpg" alt="" />
+              <img style='height:600px; width:600px;' class="img-fluid" src="img/pdf.svg" alt="" />
             </div>
           </div>
           <div class="col-lg-6">
             <div class="h_blog_text">
               <div class="h_blog_text_inner left right">
-                <h4>Information</h4>
+                <h4>Welcome to Online Book Store - Your Ultimate eBook Destination!</h4>
                 <p>
-                At Online Book Store, we are committed to protecting the privacy 
-                and security of our users' personal information. This Privacy Policy outlines how we 
-                collect, use, disclose, and safeguard your data when you use our website and services.
+                Are you an avid reader or simply someone who loves to explore the vast world of literature? 
+                Look no further! Online Book Store is your one-stop destination for an extensive collection 
+                of eBooks in PDF format. We offer an unparalleled digital library where you can access, download, 
+                and enjoy a wide variety of books, documents, and educational resources at your convenience.
                 </p>
                 <p>
-                <h6>Personal Information:</h6> We may collect personal information that you provide voluntarily,
-                such as your name, email address, and other contact details when you sign up for an account
-                or contact us.
+                Our website is designed with simplicity and user-friendliness in mind. Navigating through our
+                 eBook collection is a breeze, allowing you to quickly find the books you desire.
                 </p>
-                <p>
-                <h6>Payment Information:</h6> If you make a purchase on our website, your payment details
-                 will be processed securely, but we do not store this information. We use trusted 
-                 third-party payment processors.
-                </p>
-              
               </div>
             </div>
           </div>

@@ -13,29 +13,23 @@
         <div class="row h_blog_item">
           <div class="col-lg-6">
             <div class="h_blog_img">
-              <img class="img-fluid" src="img/privacypolicy.jpg" alt="" />
+              <img style='height:500px; width:600px;' class="img-fluid" src="img/cd.jpeg" alt="" />
             </div>
           </div>
           <div class="col-lg-6">
             <div class="h_blog_text">
               <div class="h_blog_text_inner left right">
-                <h4>Information</h4>
+                <h4>Introducing Online Book Store - Your Digital Library on CD!</h4>
                 <p>
-                At Online Book Store, we are committed to protecting the privacy 
-                and security of our users' personal information. This Privacy Policy outlines how we 
-                collect, use, disclose, and safeguard your data when you use our website and services.
+                In an ever-evolving digital age, Online Book Store recognizes that 
+                accessibility and convenience are paramount for book lovers and knowledge seekers. 
+                That's why we're excited to introduce a new and unique way to experience our extensive 
+                eBook collection - through our specially curated CD collections!
                 </p>
                 <p>
-                <h6>Personal Information:</h6> We may collect personal information that you provide voluntarily,
-                such as your name, email address, and other contact details when you sign up for an account
-                or contact us.
+                Our CDs feature carefully curated eBook collections that cater to a wide range of interests
+                 and genres. Whether you're a fiction enthusiast, our CD collections have something for everyone.
                 </p>
-                <p>
-                <h6>Payment Information:</h6> If you make a purchase on our website, your payment details
-                 will be processed securely, but we do not store this information. We use trusted 
-                 third-party payment processors.
-                </p>
-              
               </div>
             </div>
           </div>

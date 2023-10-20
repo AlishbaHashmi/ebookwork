@@ -13,29 +13,23 @@
         <div class="row h_blog_item">
           <div class="col-lg-6">
             <div class="h_blog_img">
-              <img class="img-fluid" src="img/privacypolicy.jpg" alt="" />
+              <img style='height:500px; width:600px;' class="img-fluid" src="img/hardcopy.jpg" alt="" />
             </div>
           </div>
           <div class="col-lg-6">
             <div class="h_blog_text">
               <div class="h_blog_text_inner left right">
-                <h4>Information</h4>
+                <h4>Introducing Online Book Store - Bringing the Digital to the Physical with Hard Copy Books!</h4>
                 <p>
-                At Online Book Store, we are committed to protecting the privacy 
-                and security of our users' personal information. This Privacy Policy outlines how we 
-                collect, use, disclose, and safeguard your data when you use our website and services.
+                In a world where digital content has taken center stage, Online Book Store is excited 
+                to bridge the gap by offering our extensive eBook collection in hard copy format. We're delighted 
+                to introduce this unique opportunity for you to experience the charm and tactile pleasure of
+                 physical books.
                 </p>
                 <p>
-                <h6>Personal Information:</h6> We may collect personal information that you provide voluntarily,
-                such as your name, email address, and other contact details when you sign up for an account
-                or contact us.
+                There's something magical about holding a physical book in your hands. 
+                Our hard copies provide that classic, tactile experience that many readers cherish.
                 </p>
-                <p>
-                <h6>Payment Information:</h6> If you make a purchase on our website, your payment details
-                 will be processed securely, but we do not store this information. We use trusted 
-                 third-party payment processors.
-                </p>
-              
               </div>
             </div>
           </div>

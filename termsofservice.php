@@ -13,29 +13,31 @@
         <div class="row h_blog_item">
           <div class="col-lg-6">
             <div class="h_blog_img">
-              <img class="img-fluid" src="img/privacypolicy.jpg" alt="" />
+              <img style='height:500px; width:600px;' class="img-fluid" src="img/hardcopy.jpg" alt="" />
             </div>
           </div>
           <div class="col-lg-6">
             <div class="h_blog_text">
               <div class="h_blog_text_inner left right">
-                <h4>Information</h4>
+                <h4>Terms of Service for Online Book Store</h4>
                 <p>
-                At Online Book Store, we are committed to protecting the privacy 
-                and security of our users' personal information. This Privacy Policy outlines how we 
-                collect, use, disclose, and safeguard your data when you use our website and services.
+                Welcome to Online Book Store, your destination for accessing and enjoying a vast 
+                collection of eBooks. These Terms of Service  govern your use of our website and services,
+                 so please read them carefully.
                 </p>
                 <p>
-                <h6>Personal Information:</h6> We may collect personal information that you provide voluntarily,
-                such as your name, email address, and other contact details when you sign up for an account
-                or contact us.
+                You must be at least 13 years old to use our services. If you are under
+                 13, please refrain from using our website.
                 </p>
                 <p>
-                <h6>Payment Information:</h6> If you make a purchase on our website, your payment details
-                 will be processed securely, but we do not store this information. We use trusted 
-                 third-party payment processors.
+                Some features may require account creation. You are responsible for maintaining the 
+                confidentiality of your account information, and you agree to notify us of any unauthorized 
+                use.
                 </p>
-              
+                <p>
+                If you have any questions, concerns, or feedback related to these Terms 
+                of Service, please <a style='color:green; font-size: large;' href="./contact.php"> Contact Us.
+                </p>
               </div>
             </div>
           </div>
