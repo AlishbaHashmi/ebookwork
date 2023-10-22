@@ -1,8 +1,8 @@
 
   <!--================ Start Header Menu Area =================-->
   <?php
+ 
   include('header.php');
-  // print_r($_SESSION);
 
   ?>
   <!--================ End Header Menu Area =================-->

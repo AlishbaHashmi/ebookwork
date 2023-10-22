@@ -42,8 +42,9 @@
           data-mlat="40.701083"
           data-mlon="-74.1522848"
         ></div>
-        <center>
-    <h1>CONTACT HERE</h1>
+<br>
+<center>
+<h1 >Contact Us</h1>
 </center>
 <br>
         <div class="row">
@@ -68,33 +69,36 @@
           </div>
       
           <div class="col-lg-9">
-          <form class="contact" action="" method="">
-            <div class="form-group row">
-                <div class="col-sm-6 mb-3 mb-sm-0">
-                    <input type="text" class="form-control form-control-user" id="exampleFirstName"
-                        placeholder="First Name" name="FirstName" required>
+          <div class="contact-form">
+    <form action="" method="POST">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="mb-3">
+                    <input type="text" class="form-control" name="firstname" placeholder="Your First Name" required>
                 </div>
-                <div class="col-sm-6">
-                    <input type="text" class="form-control form-control-user" id="exampleLastName"
-                        placeholder="Last Name" name="LastName" required>
-                 </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" name="lastname" placeholder="Your Last Name" required>
+                </div>
+                <div class="mb-3">
+                <input type="email" class="form-control" name="email" placeholder="Your Email"
+                 required pattern="^[a-zA-Z0-9._%+-]+@gmail\.com$|^[a-zA-Z0-9._%+-]+@gmail\.[a-z]{2,}$">
+
+
+                </div>
             </div>
-            <div class="form-group row">
-              <div class="form-group">
-                <input type="email" class="form-control form-control-user" id="exampleInputEmail"
-                    placeholder="Email Address" name="email" required>
+            <div class="col-md-6">
+                <div class="mb-3">
+                    <textarea class="form-control" name="message" placeholder="Your Message" rows="5" required></textarea>
+                </div>
             </div>
-                <div class="col-sm-6">
-                    <input type="text" class="form-control form-control-user" id="exampleLastName"
-                        placeholder="Type msg" name="msg" required>
-                 </div>
-            </div>
-            
-           
-            <hr>
-                                
-</form>
-<input type="submit" class="btn btn-warning " name="register" >
+        </div>
+        <button type="submit" class="btn btn-warning">Submit</button>
+    </form>
+</div>
+
+
+
+
       </div>
       
     </section>

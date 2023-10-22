@@ -1,6 +1,9 @@
 
-  <?php
-          // session_start();
+<?php
+          session_start();
+  if(isset($_SESSION['useremail'])){
+    header('location:index.php');
+  }
 
   include('header.php');
 

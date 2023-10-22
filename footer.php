@@ -17,7 +17,7 @@
         <div class="col-lg-2 col-md-6 single-footer-widget">
           <h4>Quick Links</h4>
           <ul>
-            <li><a style='color:#ecb944;' href="contact">Contact Us</a></li>
+            <li><a style='color:#ecb944;' href="contact.php">Contact Us</a></li>
             <li><a style='color:#ecb944;' href="about-us.php">About Us</a></li>
             <li><a style='color:#ecb944;' href="faq.php">FAQ</a></li>
             <li><a style='color:#ecb944;' href="privacypolicy.php">Privacy Policy</a></li>
